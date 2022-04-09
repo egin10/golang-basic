@@ -22,7 +22,7 @@ func main() {
 
 	var (
 		country = "Indonesia"
-		size = 42
+		size    = 42
 	)
 	fmt.Println(country)
 	fmt.Println(size)

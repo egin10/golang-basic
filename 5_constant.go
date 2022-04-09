@@ -5,8 +5,8 @@ import "fmt"
 func main() {
 	const (
 		firstName string = "Egin"
-		lastName 		 = "Keren"
-		value 			 = 20
+		lastName         = "Keren"
+		value            = 20
 	)
 
 	fmt.Println(firstName)
